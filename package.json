@@ -1,0 +1,48 @@
+{
+	"name": "IRIS",
+	"version": "0.5.3",
+	"private": false,
+	"homepage": "https://iris.ae.illinois.edu",
+	"dependencies": {
+		"gatsby": "^2.15.5",
+		"gatsby-image": "^2.2.16",
+		"gatsby-plugin-manifest": "^2.2.13",
+		"gatsby-plugin-offline": "^2.2.10",
+		"gatsby-plugin-react-helmet": "^3.1.6",
+		"gatsby-plugin-sharp": "^2.2.19",
+		"gatsby-source-filesystem": "^2.1.21",
+		"gatsby-transformer-remark": "^2.6.21",
+		"gatsby-transformer-sharp": "^2.2.13",
+		"gh-pages": "^2.1.1",
+		"moment": "^2.24.0",
+		"node-sass": "^4.12.0",
+		"prop-types": "^15.7.2",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0",
+		"react-error-overlay": "^6.0.1",
+		"react-helmet": "^5.2.1",
+		"react-markdown": "^4.1.0",
+		"sass-loader": "^7.3.1",
+		"webpack": "4.39.1"
+	},
+	"scripts": {
+		"build": "gatsby build",
+		"dev": "gatsby develop",
+		"format": "prettier --write \"src/**/*.{js,jsx,json,md}\"",
+		"start": "gatsby develop",
+		"serve": "gatsby serve",
+		"predeploy": "yarn build --prefix-paths",
+		"deploy": "gh-pages -d public",
+		"commit": "yarn format && git add . && git commit && git push"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"devDependencies": {
+		"eslint": "^6.2.2",
+		"eslint-config-google": "^0.13.0",
+		"eslint-config-prettier": "^6.2.0",
+		"eslint-plugin-react": "^7.13.0",
+		"prettier": "^1.18.2"
+	}
+}
