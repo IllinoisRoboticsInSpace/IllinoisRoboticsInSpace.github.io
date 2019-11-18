@@ -21,7 +21,7 @@
 	border-bottom-style: solid;
     border-bottom-color: #E84A27;
 	border-bottom-width: 2px;
-	transition: top 0.2s ease-in-out;
+	/* transition: top 0.2s ease-in-out; */
 }
 
 .headerLogo {
