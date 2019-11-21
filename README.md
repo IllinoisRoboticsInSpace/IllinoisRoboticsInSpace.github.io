@@ -1,6 +1,6 @@
-# QUIUC/www
+# iris-website
 
-Gatsby static site hosted on Github Pages
+Gatsby static site hosted and deployed via Netlify.
 
 ## Development
 
@@ -13,3 +13,4 @@ Run on your local machine to run the predeploy and deploy scripts.
 ```
 yarn deploy
 ```
+This will build the site on the `gh-pages` branch. When Netlify recognizes a change on this branch, it will redeploy the site.
