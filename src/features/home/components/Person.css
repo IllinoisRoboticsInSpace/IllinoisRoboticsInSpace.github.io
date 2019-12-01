@@ -1,5 +1,6 @@
 .personCard {
-	flex: 1;
+	flex: auto;
+	width: max-content;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
