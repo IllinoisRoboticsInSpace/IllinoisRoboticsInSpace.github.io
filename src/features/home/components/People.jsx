@@ -14,14 +14,13 @@ const People = (props, ref) => {
 				<Person name="Patrick Kulach" position="Treasurer" imageSrc="/people/patrick.jpg" />
 				<Person name="Jake Nickel" position="Project Manager and Electrical Lead" imageSrc="/people/jake.jpg" />
 				<Person name="Gavin Chan" position="Publicity Chair" imageSrc="/people/gavin.jpg" />
-				<Person name="Megan Shapland" position="Corporate Outreach" imageSrc="/people/megan.jpg" />
 				<Person name="Aryan Dawra" position="Outreach Chair" imageSrc="/people/aryan.jpg" />
 				<Person name="Christian Held" position="Electrical Consultant" imageSrc="/people/christian.jpg" />
 				<Person name="Ethan Hoggard" position="Systems Team Lead" imageSrc="/people/ethan.jpg" />
 				<Person name="Ananya Yammanuru" position="Auto Team Lead" imageSrc="/people/ananya.jpg" />
 				<Person name="Peter Gutfeldt" position="Mechanical Team Lead" imageSrc="/people/peter.jpg" />
 				<Person name="Elizabeth Karlovics" position="Social Media Chair" imageSrc="/people/elizabeth.jpg" />
-				<Person name="Position Open for Applications" position="Corporate Outreach" imageSrc="/people/nate.jpg" />
+				<Person name="Megan Shapland" position="Corporate Outreach" imageSrc="/people/megan.jpg" />
 				<Person name="Aditya Gupta" position="Webmaster" imageSrc="/people/adithya.jpg" />
 				<Person name="Ajay Arasanipalai" position="Webmaster" imageSrc="/people/ajay.jpg" />
 			</div>
