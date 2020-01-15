@@ -1,23 +1,22 @@
 {
-	"events": [
-
-		{
-			"id": "1",
-			"title": "IRIS Board Meeting",
-			"date": "2019-11-17T18:00:00-06:00",
-			"description": "Some people meet and talk",
-			"location": {
-				"text": "ECE Open Lab"
-			}
-		},
-		{
-			"id": "2",
-			"title": "Automonous Team Meeting",
-			"date": "2019-11-18T19:00:00-07:00",
-			"description": "Some more people meet and talk about different things",
-			"location": {
-				"text": "ECE Open Lab"
-			}
-		}
-	]
+  "events": [
+    {
+      "id": "1",
+      "title": "IRIS Board Meeting",
+      "date": "2019-11-17T18:00:00-06:00",
+      "description": "Some people meet and talk",
+      "location": {
+        "text": "ECE Open Lab"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Automonous Team Meeting",
+      "date": "2019-11-18T19:00:00-07:00",
+      "description": "Some more people meet and talk about different things",
+      "location": {
+        "text": "ECE Open Lab"
+      }
+    }
+  ]
 }
