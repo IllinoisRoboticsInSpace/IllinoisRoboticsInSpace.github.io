@@ -81,7 +81,7 @@ const People = (props, ref) => {
         <Person
           name="Ajay Arasanipalai"
           position="Webmaster"
-          imageSrc="/people/ajay.webp"
+          imageSrc="/people/adithya.webp"
         />
       </div>
     </div>

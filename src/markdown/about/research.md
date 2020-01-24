@@ -11,7 +11,8 @@ title: "about-2"
 Illinois Robotics in Space would like to thank our home department, the Department of Aerospace Engineering for their continued support.
 
 ![Illinois Space Grant Consortium](https://iris.ae.illinois.edu/files/2018/09/ISGC.png "Illinois Space Grant Consortium")
-![Funded by SORF](https://iris.ae.illinois.edu/files/2015/10/SorfLogo_rztquf-300x145.jpg"Funded by SORF")
+
+<!-- ![Funded by SORF](https://iris.ae.illinois.edu/files/2015/10/SorfLogo_rztquf-300x145.jpg"Funded by SORF") -->
 
 We also would like to acknowledge the support of the Illinois Space Grant Consortium, and the Student Organization Registration Fund.
 
@@ -26,7 +27,8 @@ Coming soon.
 ## Lunar Sponsors
 
 ![Lab Society](https://iris.ae.illinois.edu/files/2018/12/LS-Horizontal-300x75.png "Lab Society")
-![FMW Fasteners](https://iris.ae.illinois.edu/files/2019/04/fmwlogo.png"FMW Fasteners")
+
+<!-- ![FMW Fasteners](https://iris.ae.illinois.edu/files/2019/04/fmwlogo.png"FMW Fasteners") -->
 
 You?
 

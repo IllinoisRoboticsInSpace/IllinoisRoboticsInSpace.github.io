@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div id="Header" className="headerContainer">
       <Link to="/">
-        <img className="headerLogo" src="iris-banner.png" alt="IRIS" />
+        <img className="headerLogo" src="iris-banner.webp" alt="IRIS" />
       </Link>
       <li className="headerLinks">
         <Link to="about">
