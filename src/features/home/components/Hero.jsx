@@ -16,7 +16,7 @@ const Hero = () => {
           <Button text="Join Us" link="https://iris-uiuc.slack.com" />
         </div>
       </div>
-      <img className="heroBlochSphere" src="/boards.png" alt="" />
+      <img className="heroBlochSphere" src="/boards.webp" alt="" />
     </div>
   );
 };
