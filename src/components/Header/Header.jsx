@@ -14,7 +14,7 @@ const Header = () => {
           <div className="headerLink">About</div>
         </Link>
         <Link to="people">
-          <div className="peopleLink headerLink">Board</div>
+          <div className="peopleLink headerLink">Board Members</div>
         </Link>
         <Link to="events">
           <div className="headerLink">Events</div>
