@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.19.1/libexec/bin/yarn.js install
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.19.1/libexec/bin/yarn.js add gatsby-plugin-html-attributes
 
 PATH: 
-  /Users/ajayarasanipalai/anaconda3/bin:/Users/ajayarasanipalai/anaconda3/condabin:/Users/ajayarasanipalai/.cabal/bin:/Users/ajayarasanipalai/.ghcup/bin:/Users/ajayarasanipalai/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/ajayarasanipalai/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin
+  /Users/ajayarasanipalai/anaconda3/bin:/Users/ajayarasanipalai/anaconda3/condabin:/Users/ajayarasanipalai/.cabal/bin:/Users/ajayarasanipalai/.ghcup/bin:/Users/ajayarasanipalai/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/ajayarasanipalai/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin:/Users/ajayarasanipalai/.rvm/bin
 
 Yarn version: 
   1.19.1
@@ -33,8 +33,9 @@ npm manifest:
   	"private": false,
   	"homepage": "https://iris.ae.illinois.edu",
   	"dependencies": {
-  		"gatsby": "^2.18.7",
+  		"gatsby": "^2.18.22",
   		"gatsby-image": "^2.2.16",
+  		"gatsby-plugin-html-attributes": "^1.0.5",
   		"gatsby-plugin-manifest": "^2.2.13",
   		"gatsby-plugin-offline": "^2.2.10",
   		"gatsby-plugin-react-helmet": "^3.1.6",
@@ -45,7 +46,7 @@ npm manifest:
   		"gh-pages": "^2.1.1",
   		"moment": "^2.24.0",
   		"netlify-cms-app": "^2.11.1",
-  		"node-sass": "^4.12.0",
+  		"node-sass": "^4.13.1",
   		"prop-types": "^15.7.2",
   		"react": "^16.9.0",
   		"react-dom": "^16.9.0",
