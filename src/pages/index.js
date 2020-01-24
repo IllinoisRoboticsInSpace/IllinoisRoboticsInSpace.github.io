@@ -7,7 +7,7 @@ import Header from "../components/Header/Header";
 import Hero from "../features/home/components/Hero";
 import About from "../features/home/components/About";
 import People from "../features/home/components/People";
-import Events from "../features/home/components/Events";
+// import Events from "../features/home/components/Events";
 import Contact from "../features/home/components/Contact";
 import PopupOverlay from "../components/boilerplate/Popup";
 
@@ -17,7 +17,7 @@ const Home = props => {
 
   const aboutRef = useRef(null);
   const peopleRef = useRef(null);
-  const eventsRef = useRef(null);
+  // const eventsRef = useRef(null);
   const contactRef = useRef(null);
 
   useEffect(() => {
@@ -32,11 +32,11 @@ const Home = props => {
         window.scrollBy(0, -86); // offset header height
         break;
       }
-      case "events": {
-        eventsRef.current.scrollIntoView({ behavior: "auto", block: "start" });
-        window.scrollBy(0, -86); // offset header height
-        break;
-      }
+      // case "events": {
+      //   eventsRef.current.scrollIntoView({ behavior: "auto", block: "start" });
+      //   window.scrollBy(0, -86); // offset header height
+      //   break;
+      // }
       case "contact": {
         contactRef.current.scrollIntoView({ behavior: "auto", block: "end" });
         break;
@@ -86,7 +86,7 @@ const Home = props => {
         <Hero />
         <About ref={aboutRef} />
         <People ref={peopleRef} />
-        <Events ref={eventsRef} />
+        {/* <Events ref={eventsRef} /> */}
         <Contact ref={contactRef} />
       </PopupOverlay>
     </div>
