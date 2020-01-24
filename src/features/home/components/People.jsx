@@ -11,77 +11,77 @@ const People = (props, ref) => {
         <Person
           name="Victoria Jiron"
           position="President"
-          imageSrc="/people/victoria.jpg"
+          imageSrc="/people/victoria.webp"
         />
         <Person
           name="Liz Boehning"
           position="Vice President"
-          imageSrc="/people/liz.jpg"
+          imageSrc="/people/liz.webp"
         />
         <Person
           name="Lukas Adomaviciute"
           position="Secretary"
-          imageSrc="/people/lukas.jpg"
+          imageSrc="/people/lukas.webp"
         />
         <Person
           name="Patrick Kulach"
           position="Treasurer"
-          imageSrc="/people/patrick.jpg"
+          imageSrc="/people/patrick.webp"
         />
         <Person
           name="Jake Nickel"
           position="Electrical Lead"
-          imageSrc="/people/jake.jpg"
+          imageSrc="/people/jake.webp"
         />
         <Person
           name="Gavin Chan"
           position="Publicity Chair"
-          imageSrc="/people/gavin.jpg"
+          imageSrc="/people/gavin.webp"
         />
         <Person
           name="Aryan Dawra"
           position="Outreach Chair"
-          imageSrc="/people/aryan.jpg"
+          imageSrc="/people/aryan.webp"
         />
         <Person
           name="Christian Held"
           position="Electrical Consultant"
-          imageSrc="/people/christian.jpg"
+          imageSrc="/people/christian.webp"
         />
         <Person
           name="Ethan Hoggard"
           position="Systems Team Lead"
-          imageSrc="/people/ethan.jpg"
+          imageSrc="/people/ethan.webp"
         />
         <Person
           name="Ananya Yammanuru"
           position="Auto Team Lead"
-          imageSrc="/people/ananya.jpg"
+          imageSrc="/people/ananya.webp"
         />
         <Person
           name="Peter Gutfeldt"
           position="Mechanical Team Lead"
-          imageSrc="/people/peter.jpg"
+          imageSrc="/people/peter.webp"
         />
         <Person
           name="Elizabeth Karlovics"
           position="Social Media Chair"
-          imageSrc="/people/elizabeth.jpg"
+          imageSrc="/people/elizabeth.webp"
         />
         <Person
           name="Megan Shapland"
           position="Corporate Outreach"
-          imageSrc="/people/megan.jpg"
+          imageSrc="/people/megan.webp"
         />
         <Person
           name="Aditya Gupta"
           position="Webmaster"
-          imageSrc="/people/adithya.jpg"
+          imageSrc="/people/adithya.webp"
         />
         <Person
           name="Ajay Arasanipalai"
           position="Webmaster"
-          imageSrc="/people/ajay.jpg"
+          imageSrc="/people/ajay.webp"
         />
       </div>
     </div>
