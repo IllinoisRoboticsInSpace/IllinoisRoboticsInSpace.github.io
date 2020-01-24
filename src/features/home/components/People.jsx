@@ -30,7 +30,7 @@ const People = (props, ref) => {
         />
         <Person
           name="Jake Nickel"
-          position="Project Manager and Electrical Lead"
+          position="Electrical Lead"
           imageSrc="/people/jake.jpg"
         />
         <Person
