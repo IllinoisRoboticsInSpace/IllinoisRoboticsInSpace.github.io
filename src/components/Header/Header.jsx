@@ -9,12 +9,12 @@ const Header = () => {
       <Link to="/">
         <img className="headerLogo" src="iris-banner.webp" alt="IRIS" />
       </Link>
-      <li className="headerLinks">
+      <div className="headerLinks">
         <Link to="about">
           <div className="headerLink">About</div>
         </Link>
         <Link to="people">
-          <div className="peopleLink headerLink">People</div>
+          <div className="peopleLink headerLink">Board</div>
         </Link>
         <Link to="events">
           <div className="headerLink">Events</div>
@@ -22,7 +22,7 @@ const Header = () => {
         <Link to="contact">
           <div className="headerLink">Contact</div>
         </Link>
-      </li>
+      </div>
     </div>
   );
 };
