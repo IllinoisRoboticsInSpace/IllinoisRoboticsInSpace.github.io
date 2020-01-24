@@ -3,6 +3,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import "./Person.css";
+import Helmet from "react-helmet";
 
 const Person = props => {
   return (
