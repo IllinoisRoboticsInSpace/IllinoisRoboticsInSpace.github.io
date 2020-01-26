@@ -88,6 +88,7 @@ const Contact = (props, ref) => {
         <img
           src="https://iris.ae.illinois.edu/files/2018/09/AeroLogo.png"
           className="sponsorLogo"
+          alt="Aerospace at Illinois"
         />
       </center>
 
@@ -124,11 +125,13 @@ const Contact = (props, ref) => {
         <img
           src="https://iris.ae.illinois.edu/files/2018/12/LS-Horizontal-300x75.png"
           className="sponsorLogo"
+          alt="Lab Society"
         />
 
         <img
           src="https://iris.ae.illinois.edu/files/2019/04/fmwlogo.png"
           className="sponsorLogo"
+          alt="FMW Fasteners"
         />
       </center>
       <p> ...You? </p>
