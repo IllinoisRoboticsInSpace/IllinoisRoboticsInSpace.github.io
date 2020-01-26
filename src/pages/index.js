@@ -56,7 +56,7 @@ const Home = props => {
           name="description"
           content="A multidisciplinary student organization at UIUC."
         />
-        <link rel="canonical" href="https://iris.ae.illinois.edu" />
+        {/* <link rel="canonical" href="https://iris.ae.illinois.edu" /> */}
 
         <link
           rel="apple-touch-icon"
