@@ -2,7 +2,7 @@ module.exports = {
 	siteMetadata: {
 		title: `Illinois Robotics in Space`,
 		description: `A multidisciplinary student organization at UIUC`,
-		author: `@gatsbyjs`
+		author: `@iyaja`
 	},
 	plugins: [
 		`gatsby-plugin-react-helmet`,
@@ -43,6 +43,6 @@ module.exports = {
 		}
 		// this (optional) plugin enables Progressive Web App + Offline functionality
 		// To learn more, visit: https://gatsby.dev/offline
-		// `gatsby-plugin-offline`,
+		// `gatsby-plugin-offline`
 	]
 };

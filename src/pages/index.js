@@ -56,8 +56,8 @@ const Home = props => {
           name="description"
           content="A multidisciplinary student organization at UIUC."
         />
-        <link rel="canonical" href="%PUBLIC_URL%" />
-        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+        <link rel="canonical" href="https://iris.ae.illinois.edu" />
+
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -75,6 +75,7 @@ const Home = props => {
           sizes="16x16"
           href="/favicon-16x16.png"
         />
+        <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />

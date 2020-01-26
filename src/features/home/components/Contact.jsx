@@ -11,16 +11,16 @@ const Contact = (props, ref) => {
         <div className="contactSections">
           <div className="contactSection">
             <p className="contactRow">
-              <b>Corporations: </b>
-              <a href="mailto:outreach@quiuc.org">outreach@quiuc.org</a>
+              <b>Sponsors: </b>
+              <a href="mailto:irisuiuc@gmail.com">irisuiuc@gmail.com</a>
             </p>
             <p className="contactRow">
-              <b>Education Team: </b>
-              <a href="mailto:education@quiuc.org">education@quiuc.org</a>
+              <b>Outreach: </b>
+              <a href="mailto:irisuiuc@gmail.com">irisuiuc@gmail.com</a>
             </p>
             <p className="contactRow">
               <b>General Inquiry: </b>
-              <a href="mailto:info@quiuc.org">info@quiuc.org</a>
+              <a href="irisuiuc@gmail.com">irisuiuc@gmail.com</a>
             </p>
           </div>
           <div className="socialContact contactSection">
