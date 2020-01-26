@@ -9,3 +9,13 @@
 .aboutButtonSpacing {
 	height: 1.4em;
 }
+p {
+	margin-bottom: 1em;
+}
+
+.sponsorLogo {
+	max-height: 100px;
+	width: auto;
+	display: flex;
+
+}
