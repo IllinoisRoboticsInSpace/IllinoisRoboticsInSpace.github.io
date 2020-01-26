@@ -16,7 +16,11 @@ const Hero = () => {
           <Button text="Join Us" link="https://iris-uiuc.slack.com" />
         </div>
       </div>
-      <img className="heroBlochSphere" src="/boards.webp" alt="" />
+      <img
+        className="heroImage"
+        src="/boards.webp"
+        alt="picture of IRIS members"
+      />
     </div>
   );
 };

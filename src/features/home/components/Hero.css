@@ -16,7 +16,7 @@
 	margin-top: 1.7rem;
 }
 
-.heroBlochSphere {
+.heroImage {
 	/* width: 38vw;
 	height: 38vw; */
 	width: 100%;
@@ -30,7 +30,7 @@
 		flex-direction: column-reverse;
 	}
 
-	.heroBlochSphere {
+	.heroImage {
 		width: 86%;
 		height: auto;
 		margin-left: 0;
@@ -43,7 +43,7 @@
 		flex-direction: column;
 	}
 
-	.heroBlochSphere {
+	.heroImage {
 		width: 86%;
 		height: auto;
 		margin-left: 0;
